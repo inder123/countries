@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.singhinderjeet.lang;
+package com.singhinderjeet.countries;
 
 /**
  * ISO 639 Language code for various languages
