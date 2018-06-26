@@ -16,4 +16,4 @@ repositories {
 }
 ```
 
-In your app build.gradle, add:  `compile "com.github.inder123:countries:1.0.1"`
+In your app build.gradle, add:  `compile "com.github.inder123:countries:1.0.2"`
